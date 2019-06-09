@@ -90,6 +90,7 @@ themeConfig:
       - 3-2-hexo-tag-dplayer/
       - 3-3-hexo-helper-live2d/
     /4-High-order-hexo-gamer/: \# # Put any thing here as a placeholder
+      - 4-1-remote-editing/
     /5-Add/:
       - 5-1-quote.html
       - 5-2-yaml.html
